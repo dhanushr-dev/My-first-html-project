@@ -4,6 +4,11 @@ Welcome to **My Multimedia Blog**, sponsored by **TAP Academy™**. This is a re
 
 ---
 
+## 🚀 Live Demo
+🌐 **GitHub Pages**: [dhanushr-dev.github.io/My-second-html-project](https://dhanushr-dev.github.io/My-first-html-project/)
+
+---
+
 ## 🚀 Features
 
 - **Favorite Songs Showcase**: Play and control favorite audio tracks directly on the webpage using integrated HTML5 audio controls.

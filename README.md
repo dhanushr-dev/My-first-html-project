@@ -5,7 +5,7 @@ Welcome to **My Multimedia Blog**, sponsored by **TAP Academy™**. This is a re
 ---
 
 ## 🚀 Live Demo
-🌐 **GitHub Pages**: [dhanushr-dev.github.io/My-first-html-project](https://dhanushr-dev.github.io/My-first-html-project/)
+🌐 **Link**: [dhanushr-dev.github.io/My-first-html-project](https://dhanushr-dev.github.io/My-first-html-project/)
 
 ---
 
